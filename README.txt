@@ -1,7 +1,8 @@
 Player Registry Mod v1.0
 By Leslie E. Krause
 
-Player Registry provides an API for simple aggregation of player properties.
+Player Registry is a library that provides simple and streamlined aggregation of commonly-
+used player properties.
 
 Repository
 ----------------------
