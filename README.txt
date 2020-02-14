@@ -1,4 +1,4 @@
-Player Registry Mod v1.0
+Player Registry Mod v2.0 PRERELEASE
 By Leslie E. Krause
 
 Player Registry is a library that provides simple and streamlined aggregation of commonly-
@@ -31,7 +31,7 @@ License of source code
 
 GNU Lesser General Public License v3 (LGPL-3.0)
 
-Copyright (c) 2018-2019, Leslie E. Krause
+Copyright (c) 2018-2020, Leslie E. Krause
 
 This program is free software; you can redistribute it and/or modify it under the terms of
 the GNU Lesser General Public License as published by the Free Software Foundation; either
